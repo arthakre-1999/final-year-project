@@ -1,0 +1,1190 @@
+[
+    {
+       "text":"pain chest",
+       "category":"hypertensive"
+    },
+    {
+       "text":"shortness of breath",
+       "category":"hypertensive"
+    },
+    {
+       "text":"dizziness",
+       "category":"hypertensive"
+    },
+    {
+       "text":"asthenia",
+       "category":"hypertensive"
+    },
+    {
+       "text":"fall",
+       "category":"hypertensive"
+    },
+    {
+       "text":"syncope",
+       "category":"hypertensive"
+    },
+    {
+       "text":"vertigo",
+       "category":"hypertensive"
+    },
+    {
+       "text":"sweat",
+       "category":"hypertensive"
+    },
+    {
+       "text":"palpitation",
+       "category":"hypertensive"
+    },
+    {
+       "text":"nausea",
+       "category":"hypertensive"
+    },
+    {
+       "text":"angina pectoris",
+       "category":"hypertensive"
+    },
+    {
+       "text":"pressure chest",
+       "category":"hypertensive"
+    },
+    {
+       "text":"polyuria",
+       "category":"diabetes"
+    },
+    {
+       "text":"polydypsia",
+       "category":"diabetes"
+    },
+    {
+       "text":"shortness of breath",
+       "category":"diabetes"
+    },
+    {
+       "text":"pain chest",
+       "category":"diabetes"
+    },
+    {
+       "text":"asthenia",
+       "category":"diabetes"
+    },
+    {
+       "text":"nausea",
+       "category":"diabetes"
+    },
+    {
+       "text":"orthopnea",
+       "category":"diabetes"
+    },
+    {
+       "text":"rale",
+       "category":"diabetes"
+    },
+    {
+       "text":"unresponsiveness",
+       "category":"diabetes"
+    },
+    {
+       "text":"mental status changes",
+       "category":"diabetes"
+    },
+    {
+       "text":"vertigo",
+       "category":"diabetes"
+    },
+    {
+       "text":"vomiting",
+       "category":"diabetes"
+    },
+    {
+       "text":"labored breathing",
+       "category":"diabetes"
+    },
+    {
+      "category":"depression mental",
+      "text":"feeling suicidal"
+  },   
+  {
+      "category":"depression mental",
+      "text":"suicidal"
+  },   
+  {
+      "category":"depression mental",
+      "text":"hallucinations auditory"
+  },   
+  {
+      "category":"depression mental",
+      "text":"feeling hopeless"
+  },   
+  {
+      "category":"depression mental",
+      "text":"weepiness"
+  },   
+  {
+      "category":"depression mental",
+      "text":"sleeplessness"
+  },   
+  {
+      "category":"depression mental",
+      "text":"motor retardation"
+  },   
+  {
+      "category":"depression mental",
+      "text":"irritable mood"
+  },   
+  {
+      "category":"depression mental",
+      "text":"blackout"
+  },   
+  {
+      "category":"depression mental",
+      "text":"mood depressed"
+  },   
+  {
+      "category":"depression mental",
+      "text":"hallucinations visual"
+  },   
+  {
+      "category":"depression mental",
+      "text":"worry"
+  },   
+  {
+      "category":"depression mental",
+      "text":"agitation"
+  },   
+  {
+      "category":"depression mental",
+      "text":"tremor"
+  },   
+  {
+      "category":"depression mental",
+      "text":"intoxication"
+  },   
+  {
+      "category":"depression mental",
+      "text":"verbal auditory hallucinations"
+  },   
+  {
+      "category":"depression mental",
+      "text":"energy increased"
+  },   
+  {
+      "category":"depression mental",
+      "text":"difficulty"
+  },   
+  {
+      "category":"depression mental",
+      "text":"nightmare"
+  },   
+  {
+      "category":"depression mental",
+      "text":"unable to concentrate"
+  },   
+  {
+      "category":"depression mental",
+      "text":"homelessness"
+  },   
+  {
+      "category":"coronary heart",
+      "text":"pain chest"
+  },   
+  {
+      "category":"coronary heart",
+      "text":"angina pectoris"
+  },   
+  {
+      "category":"coronary heart",
+      "text":"shortness of breath"
+  },   
+  {
+      "category":"coronary heart",
+      "text":"hypokinesia"
+  },   
+  {
+      "category":"coronary heart",
+      "text":"sweat"
+  },   
+  {
+      "category":"coronary heart",
+      "text":"pressure chest"
+  },   
+  {
+      "category":"coronary heart",
+      "text":"dyspnea on exertion"
+  },   
+  {
+      "category":"coronary heart",
+      "text":"orthopnea"
+  },   
+  {
+      "category":"coronary heart",
+      "text":"chest tightness"
+  },   
+  {
+      "category":"pneumonia",
+      "text":"cough"
+  },   
+  {
+      "category":"pneumonia",
+      "text":"fever"
+  },   
+  {
+      "category":"pneumonia",
+      "text":"decreased translucency"
+  },   
+  {
+      "category":"pneumonia",
+      "text":"shortness of breath"
+  },
+  {
+      "category":"category",
+      "text":"pneumonia"
+  },
+  {
+      "category":"pneumonia",
+      "text":"rale"
+  },   
+  {
+      "category":"pneumonia",
+      "text":"productive cough"
+  },   
+  {
+      "category":"pneumonia",
+      "text":"pleuritic pain"
+  },   
+  {
+      "category":"pneumonia",
+      "text":"yellow sputum"
+  },   
+  {
+      "category":"pneumonia",
+      "text":"breath sounds decreased"
+  },   
+  {
+      "category":"pneumonia",
+      "text":"chill"
+  },   
+  {
+      "category":"pneumonia",
+      "text":"rhonchus"
+  },   
+  {
+      "category":"pneumonia",
+      "text":"green sputum"
+  },   
+  {
+      "category":"pneumonia",
+      "text":"non-productive cough"
+  },   
+  {
+      "category":"pneumonia",
+      "text":"wheezing"
+  },   
+  {
+      "category":"pneumonia",
+      "text":"haemoptysis"
+  },   
+  {
+      "category":"pneumonia",
+      "text":"distress respiratory"
+  },   
+  {
+      "category":"pneumonia",
+      "text":"tachypnea"
+  },   
+  {
+      "category":"pneumonia",
+      "text":"malaise"
+  },   
+  {
+      "category":"pneumonia",
+      "text":"night sweat"
+  },   
+  {
+      "category":"failure heart congestive",
+      "text":"shortness of breath"
+  },   
+  {
+      "category":"failure heart congestive",
+      "text":"orthopnea"
+  },   
+  {
+      "category":"failure heart congestive",
+      "text":"jugular venous distention"
+  },   
+  {
+      "category":"failure heart congestive",
+      "text":"rale"
+  },   
+  {
+      "category":"failure heart congestive",
+      "text":"dyspnea"
+  },   
+  {
+      "category":"failure heart congestive",
+      "text":"cough"
+  },   
+  {
+      "category":"failure heart congestive",
+      "text":"wheezing"
+  },   
+  {
+      "category":"accident cerebrovascular",
+      "text":"dysarthria"
+  },   
+  {
+      "category":"accident cerebrovascular",
+      "text":"asthenia"
+  },   
+  {
+      "category":"accident cerebrovascular",
+      "text":"speech slurred"
+  },   
+  {
+      "category":"accident cerebrovascular",
+      "text":"facial paresis"
+  },   
+  {
+      "category":"accident cerebrovascular",
+      "text":"hemiplegia"
+  },   
+  {
+      "category":"accident cerebrovascular",
+      "text":"unresponsiveness"
+  },   
+  {
+      "category":"accident cerebrovascular",
+      "text":"seizure"
+  },   
+  {
+      "category":"accident cerebrovascular",
+      "text":"numbness"
+  },   
+  {
+      "category":"asthma",
+      "text":"wheezing"
+  },   
+  {
+      "category":"asthma",
+      "text":"cough"
+  },   
+  {
+      "category":"asthma",
+      "text":"shortness of breath"
+  },   
+  {
+      "category":"asthma",
+      "text":"chest tightness"
+  },   
+  {
+      "category":"asthma",
+      "text":"non-productive cough"
+  },   
+  {
+      "category":"asthma",
+      "text":"pleuritic pain"
+  },   
+  {
+      "category":"asthma",
+      "text":"productive cough"
+  },   
+  {
+      "category":"asthma",
+      "text":"symptom aggravating factors"
+  },   
+  {
+      "category":"asthma",
+      "text":"distress respiratory"
+  },   
+  {
+      "category":"myocardial infarction",
+      "text":"pain chest"
+  },   
+  {
+      "category":"myocardial infarction",
+      "text":"st segment elevation"
+  },   
+  {
+      "category":"myocardial infarction",
+      "text":"sweat"
+  },   
+  {
+      "category":"myocardial infarction",
+      "text":"shortness of breath"
+  },   
+  {
+      "category":"myocardial infarction",
+      "text":"st segment depression"
+  },   
+  {
+      "category":"myocardial infarction",
+      "text":"hypokinesia"
+  },   
+  {
+      "category":"myocardial infarction",
+      "text":"angina pectoris"
+  },   
+  {
+      "category":"myocardial infarction",
+      "text":"pressure chest"
+  },   
+  {
+      "category":"myocardial infarction",
+      "text":"t wave inverted"
+  },   
+  {
+      "category":"myocardial infarction",
+      "text":"orthopnea"
+  },   
+  {
+      "category":"myocardial infarction",
+      "text":"rale"
+  },   
+  {
+      "category":"myocardial infarction",
+      "text":"chest tightness"
+  },   
+  {
+      "category":"myocardial infarction",
+      "text":"presence of q wave"
+  },   
+  {
+      "category":"myocardial infarction",
+      "text":"palpitation"
+  },   
+  {
+      "category":"myocardial infarction",
+      "text":"dyspnea"
+  },   
+  {
+      "category":"myocardial infarction",
+      "text":"chest discomfort"
+  },   
+  {
+      "category":"myocardial infarction",
+      "text":"bradycardia"
+  },   
+  {
+      "category":"myocardial infarction",
+      "text":"syncope"
+  },   
+  {
+      "category":"hypercholesterolemia",
+      "text":"pain"
+  },   
+  {
+      "category":"hypercholesterolemia",
+      "text":"pain chest"
+  },   
+  {
+      "category":"hypercholesterolemia",
+      "text":"sweat"
+  },   
+  {
+      "category":"hypercholesterolemia",
+      "text":"nonsmoker"
+  },   
+  {
+      "category":"hypercholesterolemia",
+      "text":"pressure chest"
+  },   
+  {
+      "category":"hypercholesterolemia",
+      "text":"syncope"
+  },   
+  {
+      "category":"hypercholesterolemia",
+      "text":"numbness"
+  },   
+  {
+      "category":"hypercholesterolemia",
+      "text":"chest discomfort"
+  },   
+  {
+      "category":"hypercholesterolemia",
+      "text":"shortness of breath"
+  },   
+  {
+      "category":"hypercholesterolemia",
+      "text":"st segment depression"
+  },   
+  {
+      "category":"hypercholesterolemia",
+      "text":"worry"
+  },   
+  {
+      "category":"hypercholesterolemia",
+      "text":"t wave inverted"
+  },   
+  {
+      "category":"hypercholesterolemia",
+      "text":"bradycardia"
+  },   
+  {
+      "category":"hypercholesterolemia",
+      "text":"dyspnea"
+  },   
+  {
+      "category":"infection",
+      "text":"fever"
+  },   
+  {
+      "category":"infection",
+      "text":"erythema"
+  },   
+  {
+      "category":"infection",
+      "text":"decreased translucency"
+  },   
+  {
+      "category":"infection",
+      "text":"hepatosplenomegaly"
+  },   
+  {
+      "category":"infection",
+      "text":"chill"
+  },   
+  {
+      "category":"infection",
+      "text":"pruritus"
+  },   
+  {
+      "category":"infection",
+      "text":"diarrhea"
+  },   
+  {
+      "category":"infection",
+      "text":"abscess bacterial"
+  },   
+  {
+      "category":"infection",
+      "text":"swelling"
+  },   
+  {
+      "category":"infection",
+      "text":"pain"
+  },   
+  {
+      "category":"infection",
+      "text":"apyrexial"
+  },   
+  {
+      "category":"infection",
+      "text":"cough"
+  },   
+  {
+      "category":"infection urinary tract",
+      "text":"fever"
+  },   
+  {
+      "category":"infection urinary tract",
+      "text":"dysuria"
+  },   
+  {
+      "category":"infection urinary tract",
+      "text":"hematuria"
+  },   
+  {
+      "category":"infection urinary tract",
+      "text":"renal angle tenderness"
+  },   
+  {
+      "category":"infection urinary tract",
+      "text":"lethargy"
+  },   
+  {
+      "category":"infection urinary tract",
+      "text":"asthenia"
+  },   
+  {
+      "category":"infection urinary tract",
+      "text":"hyponatremia"
+  },   
+  {
+      "category":"infection urinary tract",
+      "text":"hemodynamically stable"
+  },   
+  {
+      "category":"infection urinary tract",
+      "text":"distress respiratory"
+  },   
+  {
+      "category":"infection urinary tract",
+      "text":"difficulty passing urine"
+  },   
+  {
+      "category":"infection urinary tract",
+      "text":"mental status changes"
+  },   
+  {
+      "category":"infection urinary tract",
+      "text":"consciousness clear"
+  },   
+  {
+      "category":"anemia",
+      "text":"chill"
+  },   
+  {
+      "category":"anemia",
+      "text":"guaiac positive"
+  },   
+  {
+      "category":"anemia",
+      "text":"monoclonal"
+  },   
+  {
+      "category":"anemia",
+      "text":"ecchymosis"
+  },   
+  {
+      "category":"anemia",
+      "text":"tumor cell invasion"
+  },   
+  {
+      "category":"anemia",
+      "text":"haemorrhage"
+  },   
+  {
+      "category":"anemia",
+      "text":"pallor"
+  },   
+  {
+      "category":"anemia",
+      "text":"asthenia"
+  },   
+  {
+      "category":"anemia",
+      "text":"fatigue"
+  },   
+  {
+      "category":"anemia",
+      "text":"heme positive"
+  },   
+  {
+      "category":"anemia",
+      "text":"pain back"
+  },   
+  {
+      "category":"anemia",
+      "text":"orthostasis"
+  },   
+  {
+      "category":"anemia",
+      "text":"hyponatremia"
+  },   
+  {
+      "category":"anemia",
+      "text":"dizziness"
+  },   
+  {
+      "category":"anemia",
+      "text":"shortness of breath"
+  },   
+  {
+      "category":"anemia",
+      "text":"pain"
+  },   
+  {
+      "category":"anemia",
+      "text":"rhonchus"
+  },   
+  {
+      "category":"anemia",
+      "text":"arthralgia"
+  },   
+  {
+      "category":"anemia",
+      "text":"swelling"
+  },   
+  {
+      "category":"anemia",
+      "text":"transaminitis"
+  },   
+  {
+      "category":"chronic obstructive airway",
+      "text":"shortness of breath"
+  },   
+  {
+      "category":"chronic obstructive airway",
+      "text":"wheezing"
+  },   
+  {
+      "category":"chronic obstructive airway",
+      "text":"cough"
+  },   
+  {
+      "category":"chronic obstructive airway",
+      "text":"dyspnea"
+  },   
+  {
+      "category":"chronic obstructive airway",
+      "text":"distress respiratory"
+  },   
+  {
+      "category":"chronic obstructive airway",
+      "text":"sputum purulent"
+  },   
+  {
+      "category":"chronic obstructive airway",
+      "text":"hypoxemia"
+  },   
+  {
+      "category":"chronic obstructive airway",
+      "text":"hypercapnia"
+  },   
+  {
+      "category":"chronic obstructive airway",
+      "text":"patient non compliance"
+  },   
+  {
+      "category":"chronic obstructive airway",
+      "text":"chest tightness"
+  },   
+  {
+      "category":"dementia",
+      "text":"fever"
+  },   
+  {
+      "category":"dementia",
+      "text":"fall"
+  },   
+  {
+      "category":"dementia",
+      "text":"unresponsiveness"
+  },   
+  {
+      "category":"dementia",
+      "text":"lethargy"
+  },   
+  {
+      "category":"dementia",
+      "text":"agitation"
+  },   
+  {
+      "category":"dementia",
+      "text":"ecchymosis"
+  },   
+  {
+      "category":"dementia",
+      "text":"syncope"
+  },   
+  {
+      "category":"dementia",
+      "text":"rale"
+  },   
+  {
+      "category":"dementia",
+      "text":"unconscious state"
+  },   
+  {
+      "category":"dementia",
+      "text":"cough"
+  },   
+  {
+      "category":"dementia",
+      "text":"bedridden"
+  },   
+  {
+      "category":"dementia",
+      "text":"pain"
+  },   
+  {
+      "category":"dementia",
+      "text":"facial paresis"
+  },   
+  {
+      "category":"dementia",
+      "text":"abdominal tenderness"
+  },   
+  {
+      "category":"dementia",
+      "text":"rhonchus"
+  },   
+  {
+      "category":"dementia",
+      "text":"unsteady gait"
+  },   
+  {
+      "category":"dementia",
+      "text":"hallucinations auditory"
+  },   
+  {
+      "category":"insufficiency renal",
+      "text":"shortness of breath"
+  },   
+  {
+      "category":"insufficiency renal",
+      "text":"hyperkalemia"
+  },   
+  {
+      "category":"insufficiency renal",
+      "text":"orthopnea"
+  },   
+  {
+      "category":"insufficiency renal",
+      "text":"rale"
+  },   
+  {
+      "category":"insufficiency renal",
+      "text":"urgency of micturition"
+  },   
+  {
+      "category":"insufficiency renal",
+      "text":"ascites"
+  },   
+  {
+      "category":"insufficiency renal",
+      "text":"guaiac positive"
+  },   
+  {
+      "category":"insufficiency renal",
+      "text":"asthenia"
+  },   
+  {
+      "category":"insufficiency renal",
+      "text":"apyrexial"
+  },
+  {
+      "category":"category",
+      "text":"insufficiency renal"
+  },
+  {
+      "category":"insufficiency renal",
+      "text":"mental status changes"
+  },   
+  {
+      "category":"insufficiency renal",
+      "text":"dyspnea"
+  },   
+  {
+      "category":"insufficiency renal",
+      "text":"difficulty"
+  },   
+  {
+      "category":"insufficiency renal",
+      "text":"diarrhea"
+  },   
+  {
+      "category":"insufficiency renal",
+      "text":"hypotension"
+  },   
+  {
+      "category":"insufficiency renal",
+      "text":"breath sounds decreased"
+  },   
+  {
+      "category":"insufficiency renal",
+      "text":"swelling"
+  },
+  {
+      "category":"insufficiency renal",
+      "text":"text"
+  },
+  {
+      "category":"hypokinesia",
+      "text":"hypokinesia"
+  },   
+  {
+      "category":"confusion",
+      "text":"seizure"
+  },   
+  {
+      "category":"confusion",
+      "text":"enuresis"
+  },   
+  {
+      "category":"confusion",
+      "text":"lethargy"
+  },   
+  {
+      "category":"confusion",
+      "text":"speech slurred"
+  },   
+  {
+      "category":"confusion",
+      "text":"fall"
+  },   
+  {
+      "category":"confusion",
+      "text":"consciousness clear"
+  },   
+  {
+      "category":"confusion",
+      "text":"mental status changes"
+  },   
+  {
+      "category":"confusion",
+      "text":"asterixis"
+  },   
+  {
+      "category":"confusion",
+      "text":"unconscious state"
+  },   
+  {
+      "category":"confusion",
+      "text":"agitation"
+  },   
+  {
+      "category":"confusion",
+      "text":"muscle twitch"
+  },   
+  {
+      "category":"confusion",
+      "text":"asthenia"
+  },   
+  {
+      "category":"confusion",
+      "text":"sleepy"
+  },   
+  {
+      "category":"confusion",
+      "text":"dizziness"
+  },   
+  {
+      "category":"confusion",
+      "text":"headache"
+  },   
+  {
+      "category":"confusion",
+      "text":"dysarthria"
+  },   
+  {
+      "category":"confusion",
+      "text":"lightheadedness"
+  },   
+  {
+      "category":"confusion",
+      "text":"tremor"
+  },   
+  {
+      "category":"confusion",
+      "text":"hyponatremia"
+  },   
+  {
+      "category":"confusion",
+      "text":"unresponsiveness"
+  },   
+  {
+      "category":"degenerative polyarthritis",
+      "text":"pain"
+  },   
+  {
+      "category":"degenerative polyarthritis",
+      "text":"food intolerance"
+  },   
+  {
+      "category":"degenerative polyarthritis",
+      "text":"numbness of hand"
+  },   
+  {
+      "category":"degenerative polyarthritis",
+      "text":"general discomfort"
+  },   
+  {
+      "category":"degenerative polyarthritis",
+      "text":"drowsiness"
+  },   
+  {
+      "category":"degenerative polyarthritis",
+      "text":"asthenia"
+  },   
+  {
+      "category":"degenerative polyarthritis",
+      "text":"nonsmoker"
+  },   
+  {
+      "category":"degenerative polyarthritis",
+      "text":"non-productive cough"
+  },   
+  {
+      "category":"degenerative polyarthritis",
+      "text":"polydypsia"
+  },   
+  {
+      "category":"degenerative polyarthritis",
+      "text":"stiffness"
+  },   
+  {
+      "category":"degenerative polyarthritis",
+      "text":"unsteady gait"
+  },   
+  {
+      "category":"hypothyroidism",
+      "text":"shortness of breath"
+  },   
+  {
+      "category":"hypothyroidism",
+      "text":"prostatism"
+  },   
+  {
+      "category":"hypothyroidism",
+      "text":"drowsiness"
+  },   
+  {
+      "category":"hypothyroidism",
+      "text":"hyponatremia"
+  },   
+  {
+      "category":"hypothyroidism",
+      "text":"fall"
+  },   
+  {
+      "category":"hypothyroidism",
+      "text":"unsteady gait"
+  },   
+  {
+      "category":"hypothyroidism",
+      "text":"polyuria"
+  },   
+  {
+      "category":"hypothyroidism",
+      "text":"hypotension"
+  },   
+  {
+      "category":"hypothyroidism",
+      "text":"difficulty"
+  },   
+  {
+      "category":"hypothyroidism",
+      "text":"syncope"
+  },   
+  {
+      "category":"hypothyroidism",
+      "text":"nightmare"
+  },   
+  {
+      "category":"hypothyroidism",
+      "text":"speech slurred"
+  },   
+  {
+      "category":"hypothyroidism",
+      "text":"weight gain"
+  },   
+  {
+      "category":"hypothyroidism",
+      "text":"asthenia"
+  },   
+  {
+      "category":"hypothyroidism",
+      "text":"fatigue"
+  },   
+  {
+      "category":"hypothyroidism",
+      "text":"agitation"
+  },   
+  {
+      "category":"hypothyroidism",
+      "text":"mental status changes"
+  },   
+  {
+      "category":"hypothyroidism",
+      "text":"motor retardation"
+  },   
+  {
+      "category":"hypothyroidism",
+      "text":"vomiting"
+  },   
+  {
+      "category":"hypothyroidism",
+      "text":"numbness"
+  },   
+  {
+      "category":"hypothyroidism",
+      "text":"mass of body structure"
+  },   
+  {
+      "category":"anxiety state",
+      "text":"worry"
+  },   
+  {
+      "category":"anxiety state",
+      "text":"feeling suicidal"
+  },   
+  {
+      "category":"anxiety state",
+      "text":"suicidal"
+  },   
+  {
+      "category":"anxiety state",
+      "text":"sleeplessness"
+  },   
+  {
+      "category":"anxiety state",
+      "text":"feeling hopeless"
+  },   
+  {
+      "category":"anxiety state",
+      "text":"irritable mood"
+  },   
+  {
+      "category":"anxiety state",
+      "text":"tremor"
+  },   
+  {
+      "category":"anxiety state",
+      "text":"blackout"
+  },   
+  {
+      "category":"anxiety state",
+      "text":"weepiness"
+  },   
+  {
+      "category":"anxiety state",
+      "text":"has religious belief"
+  },   
+  {
+      "category":"anxiety state",
+      "text":"nervousness"
+  },   
+  {
+      "category":"anxiety state",
+      "text":"hallucinations visual"
+  },   
+  {
+      "category":"anxiety state",
+      "text":"formication"
+  },   
+  {
+      "category":"anxiety state",
+      "text":"difficulty"
+  },   
+  {
+      "category":"anxiety state",
+      "text":"pain chest"
+  },   
+  {
+      "category":"anxiety state",
+      "text":"patient non compliance"
+  },   
+  {
+      "category":"anxiety state",
+      "text":"agitation"
+  },   
+  {
+      "category":"anxiety state",
+      "text":"palpitation"
+  },   
+  {
+      "category":"anxiety state",
+      "text":"hallucinations auditory"
+  },   
+  {
+      "category":"anxiety state",
+      "text":"mood depressed"
+  },   
+  {
+      "category":"anxiety state",
+      "text":"hot flush"
+  },   
+  {
+      "category":"anxiety state",
+      "text":"pain"
+  },   
+  {
+      "category":"anxiety state",
+      "text":"consciousness clear"
+  },   
+  {
+      "category":"anxiety state",
+      "text":"nightmare"
+  }
+ ]
